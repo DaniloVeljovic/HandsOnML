@@ -1,1 +1,1 @@
-jjjjgdsjhghj
+Danilo Veljovic je uspeo da sredi Git preko Pythona
